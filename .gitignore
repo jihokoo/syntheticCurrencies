@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/contracts/lib/*
+/contracts/lib
 /.pnp
 .pnp.*
 .yarn/*
